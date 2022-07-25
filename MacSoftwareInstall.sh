@@ -32,4 +32,3 @@ brew install git
 brew install cask angry-ip-scanner
 brew install cask iterm2
 brew install cask google-chrome
-
