@@ -18,7 +18,8 @@ if ! [[ -x "$brew" ]]; then
 fi
 
 brew install tldr
-brew install cask dropbox
+brew install nvim
+brew install git
 brew install cask atom	
 brew install cask teamviewer
 brew install cask slack
@@ -28,7 +29,7 @@ brew install cask parallels
 brew install cask vlc
 brew install cask wireshark
 brew install cask zoom
-brew install git
 brew install cask angry-ip-scanner
 brew install cask iterm2
 brew install cask google-chrome
+brew install cask dropbox
