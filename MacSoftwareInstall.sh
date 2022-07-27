@@ -20,6 +20,8 @@ fi
 brew install tldr
 brew install nvim
 brew install git
+brew install nmap
+brew install arp-scan
 brew install cask atom	
 brew install cask teamviewer
 brew install cask slack
