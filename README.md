@@ -8,8 +8,3 @@ Run the MacSoftwareInstall.sh in your terminal
     - You may need to ```chmod +x MacSoftwareInstall.sh``` in order to make it executable.
 4. You will be prompted for your password. 
 
-Once complete you will have most of the software required for help desk work 
-
-Please also install the following
-    - VPNtracker365
-        - https://www.vpntracker.com/us/index.html
