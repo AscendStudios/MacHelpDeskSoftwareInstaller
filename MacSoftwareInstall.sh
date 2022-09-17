@@ -37,6 +37,7 @@ brew install cask zoom
 brew install cask angry-ip-scanner
 brew install cask iterm2
 brew install cask google-chrome
+brew install cask disk-expert
 
 # VPN TRACKER
 # Download the file
