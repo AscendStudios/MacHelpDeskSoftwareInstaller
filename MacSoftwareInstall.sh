@@ -24,6 +24,7 @@ brew install nvim
 brew install git
 brew install nmap
 brew install arp-scan
+brew install cask notion
 brew install cask dropbox
 brew install cask atom	
 brew install cask teamviewer
